@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 .card {
-    margin: 0 6%;
+    margin: 0 6.5322%;
     width: 20%;
     height: 200px;
     display: inline-block;
@@ -53,3 +53,26 @@ h2 {
  .row {
      margin: 50px 0;
  }
+
+ #js-logo {
+     width: 130%;
+     margin-left: -15%;
+ }
+
+ #css-logo {
+     width: 60%;
+     margin-left: 20%;
+ } 
+ 
+ #html-logo {
+     width: 80%;
+     margin-left: 10%;
+ }
+
+ .git-logo {
+     height: 70%;
+ }
+
+ .height50 {
+     height: 50%;
+ } 
