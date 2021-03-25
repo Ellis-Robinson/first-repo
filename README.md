@@ -20,3 +20,13 @@ CSS is a style sheet language used for describing the presentation of a document
 written in a markup language such as HTML. 
 This was used to make the site look more appealing for a better user experience via logos,  
 colour and spacing etc. 
+
+#### issues and fixes
+-The images I used were different sizes, 
+so I put them each in their own div, all with the same class name. 
+Then using CSS, set the width and height of that class, then set width and height of images to 100%.
+This gave me a strong starting position for getting a more uniform feel.
+
+-Some images were streched one way or another so to fix this I gave certain images ID attributes,
+ and adjusted their size accordingly in CSS. A few needed unique adjustments but I was able to group
+ the majority together via a class attribute and change them with one rule.
